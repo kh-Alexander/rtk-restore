@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Production-Ready Microservices",
+      "author": "Susan J. Fowler",
+      "price": "320 руб",
+      "coverImage": "https://cdn0.youla.io/files/images/720_720_out/64/30/6430485d103dfe5efe5f60bb-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Release It!",
+      "author": "Michael T. Nygard",
+      "price": "450 руб",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
